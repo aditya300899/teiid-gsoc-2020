@@ -37,7 +37,7 @@ which would help save a lot of time by only reading the files that are required.
 partitioned columns, and complete filtering for non partitioned columns. We are currently working on making the partitioned columns selectable and would soon merge the initial implementation of parquet
 translator for use in the next release.
 
-##Post GSoC
+## Post GSoC
 Like one of my mentors Steve said "There's always more to do.", I'm looking forward to enhancing the parquet translator and
 taking up new and challenging tasks in teiid. I'd also like to take a moment to thank my mentors [Steve](https://github.com/shawkins) and [Ramesh](https://github.com/rareddy), because it's for their continuous support
 and guidance that I was able to do things that won't have been possible for me otherwise. Their only motive was to make me learn more. I look forward to     
